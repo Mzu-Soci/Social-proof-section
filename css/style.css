@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'League Spartan', sans-serif;
+}
+
+.container {
+    max-width: 375px;
+    margin: auto;
+}
+
+.text-content {
+    padding: 0 1.5em;
+    /* border: solid 1px orange; */
+}
+
+.hero {
+    text-align: center;
+    padding-bottom: 1em;
+    font-size: large;
+}
+
+.hero__h1 {
+    color: hsl(300, 43%, 22%);
+    padding: 1.5em 1em .75em 1em;
+    font-weight: 700;
+    font-weight: bolder;
+}
+
+.hero__p {
+    font-weight: 500;
+    color: hsl(303, 10%, 53%);
+    line-height: 1.5em;
+}
+
+.rating {
+    border-radius: 7px;
+    background-color: hsl(300, 24%, 96%);
+    margin: 1em 0;
+    text-align: center;
+    padding: 1.5em;
+}
+
+.rating__p {
+    font-weight: 700;
+}
+.stars {
+    color: hsl(300, 43%, 22%);
+    letter-spacing: .5em;
+    padding: .5em;
+}
+
+.testimonial {
+    border-radius: 7px;
+    background-color: hsl(300, 43%, 22%);
+    color: hsl(0, 0%, 100%);
+    margin: .75em 0;
+    padding: 2em;
+}
+
+.profile-photo {
+    border-radius: 100px;
+    height: 40px;
+}
+
+.testimonial__head > h1 {
+    border: solid 1px yellow;
+    font-size: large;
+}
+
+.testimonial__head > p {
+    border: solid 1px yellow;
+    color: hsl(333, 80%, 67%);
+    font-size: large;
+}
+
+.testimonial__body {
+    font-weight: 400;
+    letter-spacing: .02em;
+    margin-top: 2em;
+    line-height: 1.5em;
+}
+
+
+
+.attribution {
+font-size: 11px;
+text-align: center;
+}
+.attribution a {
+color: hsl(228, 45%, 44%);
+}
