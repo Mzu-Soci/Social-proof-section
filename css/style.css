@@ -44,6 +44,7 @@
 .rating__p {
     font-weight: 700;
 }
+
 .stars {
     color: hsl(300, 43%, 22%);
     letter-spacing: .5em;
@@ -61,17 +62,20 @@
 .profile-photo {
     border-radius: 100px;
     height: 40px;
+    margin-right: 1.5em;
 }
 
-.testimonial__head > h1 {
-    border: solid 1px yellow;
-    font-size: large;
+.testimonial__head {
+    display: flex;
 }
 
-.testimonial__head > p {
-    border: solid 1px yellow;
+.head__text > h1, .head__text > p {
+    font-size: medium;
+}
+
+.head__text > p {
+    padding-top: .5em;
     color: hsl(333, 80%, 67%);
-    font-size: large;
 }
 
 .testimonial__body {
@@ -80,8 +84,6 @@
     margin-top: 2em;
     line-height: 1.5em;
 }
-
-
 
 .attribution {
 font-size: 11px;
