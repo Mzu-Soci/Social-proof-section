@@ -124,20 +124,25 @@
         left: 10%;
     }
 
+    .rate-2 > .rating__p {
+        padding-right: 2em;
+    }
+
     .rate-3 {
         position: relative;
         left: 20%;
     }
 
     .stars {
-        padding: .75em 2em;
+        padding: .75em 1em;
         letter-spacing: .25em;
 
     }
 
     .rating__p {
-        padding-right: 2em;
-        padding: 1em;
+        /* padding-right: 2em; */
+        padding: 1em 0;
+        
     }
 
     .testimonial-container {
