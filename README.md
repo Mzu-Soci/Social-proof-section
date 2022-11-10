@@ -59,5 +59,5 @@ How to use star emojis without black border
 
 ## Author
 
-- Frontend Mentor - [@Mzu-Soci](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Mzu-Soci](https://www.frontendmentor.io/profile/Mzu-Soci)
 - LinkedIn - [Mzukisi Soci](https://www.linkedin.com/in/mzukisi-soci-308521140/)
